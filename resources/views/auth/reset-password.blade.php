@@ -1,4 +1,6 @@
 <x-guest-layout>
+    <div class="neo-auth-title">Reset Password</div>
+    <div class="neo-auth-subtitle">Buat password baru yang aman.</div>
     <form method="POST" action="{{ route('password.store') }}">
         @csrf
 

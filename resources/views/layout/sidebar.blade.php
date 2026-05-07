@@ -1,8 +1,8 @@
-<div id="sidebar" class="active">
+<div id="sidebar" class="active neo-sidebar">
     <div class="sidebar-wrapper active">
-        <div class="sidebar-header">
+        <div class="sidebar-header neo-sidebar-header">
             <div class="d-flex justify-content-between">
-                <div class="logo">
+                <div class="logo neo-logo">
                     <a href="{{ route('dashboard') }}"><img src="{{ asset('images/logo.png') }}" style="width: 70px; height: auto;" alt="Logo" srcset=""></a>
                 </div>
                 <div class="toggler">

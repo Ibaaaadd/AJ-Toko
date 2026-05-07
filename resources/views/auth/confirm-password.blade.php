@@ -1,4 +1,6 @@
 <x-guest-layout>
+    <div class="neo-auth-title">Konfirmasi Password</div>
+    <div class="neo-auth-subtitle">Masukkan password untuk melanjutkan.</div>
     <div class="mb-4 text-sm text-gray-600 dark:text-gray-400">
         {{ __('This is a secure area of the application. Please confirm your password before continuing.') }}
     </div>
